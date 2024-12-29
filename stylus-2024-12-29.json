@@ -1,0 +1,465 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": false,
+      "openEditInWindow.popup": false,
+      "windowPosition": {},
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeStyleName": false,
+      "newStyleAsUsercss": true,
+      "styleViaASS": false,
+      "styleViaXhr": false,
+      "patchCsp": false,
+      "urlInstaller": true,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "system",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "w",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": true,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.minColumnWidth": 750,
+      "manage.newUI": true,
+      "manage.newUI.favicons": true,
+      "manage.newUI.faviconsGray": false,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "manage.searchMode": "meta",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "default",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true,
+        "space_around_combinator": true,
+        "space_around_cmp": false
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.arrowKeysTraverse": true,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.livePreview.delay": 0.2,
+      "editor.targetsFirst": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "#d00",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": -1,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 280,
+      "headerWidth.install": 280,
+      "headerWidth.manage": 280,
+      "popup.search.globals": false,
+      "popupWidth": 246,
+      "popupWidthMax": 280,
+      "updateInterval": 24,
+      "updateOnlyEnabled": false
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    }
+  },
+  {
+    "enabled": true,
+    "installDate": 1724972356851,
+    "name": "outlook.office365.com/mail/",
+    "sections": [
+      {
+        "code": ":root {\n\t--darkreader-bg--neutralTertiarySurface: black !important;\n\t--darkreader-bg--neutralSecondarySurface: black !important;\n\t--darkreader-bg--neutralPrimarySurface: black !important;\n\t--darkreader-border--neutralTertiaryAlt: black !important;\n}\n  \n*:not(i) {\n\tfont-family: \"MxPlus IBM VGA 8x16\" !important;\n}\n  \n* {\n\tfont-size: 1rem !important;\n}\n\ntime {\n\ttransform: translateY(-12px);\n}\ntime.fS_Qr {\n\ttransform: translateY(-12px);\n}\ntime:has(div) {\n\ttransform: unset;\n}\n\n.o365sx-navbar * {\n  background: black !important;\n}\n  \n",
+        "urlPrefixes": [
+          "https://outlook.office.com/"
+        ]
+      }
+    ],
+    "updateDate": 1724972388050,
+    "_id": "c5ad6dbd-5b3d-41c3-bee0-3eb5d60cfeff",
+    "_rev": 1728979409332,
+    "id": 1
+  },
+  {
+    "enabled": true,
+    "installDate": 1724972423092,
+    "name": "outlook.office365.com/",
+    "sections": [
+      {
+        "code": ":root {\n\t--darkreader-bg--neutralTertiarySurface: black !important;\n\t--darkreader-bg--neutralSecondarySurface: black !important;\n\t--darkreader-bg--neutralPrimarySurface: black !important;\n\t--darkreader-border--neutralTertiaryAlt: black !important;\n}\n  \n*:not(i) {\n\tfont-family: \"MxPlus IBM VGA 8x16\" !important;\n}\n  \n* {\n\tfont-size: 1rem !important;\n}\n\ntime {\n\ttransform: translateY(-12px);\n}\ntime.fS_Qr {\n\ttransform: translateY(-12px);\n}\ntime:has(div) {\n\ttransform: unset;\n}\n\n.o365sx-navbar * {\n  background: black !important;\n}\n  \n",
+        "urlPrefixes": [
+          "https://outlook.office365.com/"
+        ]
+      }
+    ],
+    "updateDate": 1724972423092,
+    "_id": "92eb9efc-5685-4174-9950-5e0730d8500a",
+    "_rev": 1724972423092,
+    "id": 2
+  },
+  {
+    "enabled": true,
+    "installDate": 1724972803972,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           gitlab.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root, html, body {\n\t    font-size: 16px;\n        --gl-background-color-default: black;\n\t    --gray-10: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed, .row-content-block, .merge-request {\n        background: black !important;\n    }",
+        "start": 231,
+        "urlPrefixes": [
+          "https://gitlab.com/"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           gitlab.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://gitlab.com/\") {\n    :root, html, body {\n\t    font-size: 16px;\n        --gl-background-color-default: black;\n\t    --gray-10: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed, .row-content-block, .merge-request {\n        background: black !important;\n    }\n}\n\n",
+    "usercssData": {
+      "name": "gitlab.com",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "gitlab.com",
+    "updateDate": 1724972823649,
+    "_id": "660c3ea8-bcbb-4b4a-a777-f72528d9aac5",
+    "_rev": 1730908539713,
+    "id": 3
+  },
+  {
+    "enabled": true,
+    "installDate": 1728511476284,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           teams.microsoft.com/v2/\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root, html, body, * {\n        font-size: 16px;\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4) {\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed, .row-content-block, .merge-request, header[role=\"banner\"], header button, div[data-tid=\"message-pane-layout\"], div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }",
+        "start": 256,
+        "urlPrefixes": [
+          "https://teams.microsoft.com/v2/"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           teams.microsoft.com/v2/\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document url-prefix(\"https://teams.microsoft.com/v2/\") {\n    :root, html, body, * {\n        font-size: 16px;\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4) {\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed, .row-content-block, .merge-request, header[role=\"banner\"], header button, div[data-tid=\"message-pane-layout\"], div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }\n}",
+    "usercssData": {
+      "name": "teams.microsoft.com/v2/",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "teams.microsoft.com/v2/",
+    "updateDate": 1728511476284,
+    "_id": "65b90733-868e-4e1f-8c1a-c5440e468c63",
+    "_rev": 1728942507426,
+    "id": 4
+  },
+  {
+    "enabled": true,
+    "installDate": 1728511582743,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           lccctech-hub.atlassian.net/jira/software/c/projects/ZRO/boards/74\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root,\n    html,\n    body,\n    * {\n        font-size: 16px;\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4, h1 *) {\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed,\n    .row-content-block,\n    .merge-request,\n    header[role=\"banner\"],\n    header button,\n    div[data-tid=\"message-pane-layout\"],\n    div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }",
+        "start": 301,
+        "urlPrefixes": [
+          "https://lccctech-hub.atlassian.net/"
+        ]
+      }
+    ],
+    "customName": "lccctech-hub.atlassian.net/",
+    "sourceCode": "/* ==UserStyle==\n@name           lccctech-hub.atlassian.net/jira/software/c/projects/ZRO/boards/74\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n@-moz-document url-prefix(\"https://lccctech-hub.atlassian.net/\") {\n    :root,\n    html,\n    body,\n    * {\n        font-size: 16px;\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4, h1 *) {\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed,\n    .row-content-block,\n    .merge-request,\n    header[role=\"banner\"],\n    header button,\n    div[data-tid=\"message-pane-layout\"],\n    div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }\n}",
+    "usercssData": {
+      "name": "lccctech-hub.atlassian.net/jira/software/c/projects/ZRO/boards/74",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "lccctech-hub.atlassian.net/jira/software/c/projects/ZRO/boards/74",
+    "updateDate": 1730710189978,
+    "_id": "45a19839-e480-48bf-9cff-9e36790bf89c",
+    "_rev": 1730896887361,
+    "id": 5
+  },
+  {
+    "enabled": true,
+    "installDate": 1728512098358,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           lccctech-hub.atlassian.net/wiki/home\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root,\n    html,\n    body,\n    * {\n        font-size: 16px;\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4) {\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed,\n    .row-content-block,\n    .merge-request,\n    header[role=\"banner\"],\n    header button,\n    div[data-tid=\"message-pane-layout\"],\n    div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }",
+        "start": 277,
+        "urlPrefixes": [
+          "https://lccctech-hub.atlassian.net/wiki/"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           lccctech-hub.atlassian.net/wiki/home\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n@-moz-document url-prefix(\"https://lccctech-hub.atlassian.net/wiki/\") {\n    :root,\n    html,\n    body,\n    * {\n        font-size: 16px;\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4) {\n        font-size: 1rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed,\n    .row-content-block,\n    .merge-request,\n    header[role=\"banner\"],\n    header button,\n    div[data-tid=\"message-pane-layout\"],\n    div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }\n}",
+    "usercssData": {
+      "name": "lccctech-hub.atlassian.net/wiki/home",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "lccctech-hub.atlassian.net/wiki/home",
+    "updateDate": 1728512228261,
+    "_id": "f148806b-d462-4f6f-bfef-b64a3654a4fe",
+    "_rev": 1730896886610,
+    "id": 6,
+    "customName": "lccctech-hub.atlassian.net/wiki/"
+  },
+  {
+    "enabled": true,
+    "installDate": 1728547373024,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           console.aws.amazon.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root {\n        --darkreader-bg--neutralTertiarySurface: black !important;\n        --darkreader-bg--neutralSecondarySurface: black !important;\n        --darkreader-bg--neutralPrimarySurface: black !important;\n        --darkreader-border--neutralTertiaryAlt: black !important;\n    }\n\n    *:not(i) {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    * {\n        font-size: 1rem !important;\n    }\n\n    time {\n        transform: translateY(-12px);\n    }\n    time.fS_Qr {\n        transform: translateY(-12px);\n    }\n    time:has(div) {\n        transform: unset;\n    }\n\n    .o365sx-navbar * {\n        background: black !important;\n    }",
+        "start": 241,
+        "domains": [
+          "console.aws.amazon.com"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           console.aws.amazon.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n@-moz-document domain(\"console.aws.amazon.com\") {\n    :root {\n        --darkreader-bg--neutralTertiarySurface: black !important;\n        --darkreader-bg--neutralSecondarySurface: black !important;\n        --darkreader-bg--neutralPrimarySurface: black !important;\n        --darkreader-border--neutralTertiaryAlt: black !important;\n    }\n\n    *:not(i) {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    * {\n        font-size: 1rem !important;\n    }\n\n    time {\n        transform: translateY(-12px);\n    }\n    time.fS_Qr {\n        transform: translateY(-12px);\n    }\n    time:has(div) {\n        transform: unset;\n    }\n\n    .o365sx-navbar * {\n        background: black !important;\n    }\n}",
+    "usercssData": {
+      "name": "console.aws.amazon.com",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "console.aws.amazon.com",
+    "updateDate": 1728547373024,
+    "_id": "affa5a6b-5740-41c6-b03f-caad646cd969",
+    "_rev": 1728547373024,
+    "id": 8
+  },
+  {
+    "enabled": true,
+    "installDate": 1728942642584,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           stackoverflow.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root,\n    html,\n    body,\n    * {\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4, h1.fs-headline1 a) {\n        font-size: 1rem !important;\n    }\n    h1.fs-headline1 a {\n        font-size: 1.6rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed,\n    .row-content-block,\n    .merge-request,\n    header[role=\"banner\"],\n    header button,\n    div[data-tid=\"message-pane-layout\"],\n    div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }",
+        "start": 231,
+        "domains": [
+          "stackoverflow.com"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           stackoverflow.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n@-moz-document domain(\"stackoverflow.com\") {\n  :root,\n    html,\n    body,\n    * {\n        --gl-background-color-default: black;\n        --ds-surface: black;\n        --ds-surface-overlay: #000c;\n        --ds-surface-sunken: black;\n        --ds-surface-raised: black;\n        --colorNeutralBackground1: black;\n        --colorNeutralBackground: black;\n        --colorDefaultBackground7: black;\n        --themeBackgroundColor: black;\n        --backgroundCanvas: black;\n    }\n\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n    }\n\n    *:not(h1, h2, h3, h4, h1.fs-headline1 a) {\n        font-size: 1rem !important;\n    }\n    h1.fs-headline1 a {\n        font-size: 1.6rem !important;\n    }\n\n    .code * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed,\n    .row-content-block,\n    .merge-request,\n    header[role=\"banner\"],\n    header button,\n    div[data-tid=\"message-pane-layout\"],\n    div[data-tid=\"app-layout-area--header\"] * {\n        background: black !important;\n    }\n\n    .ui-tree__title {\n        height: unset !important;\n    }\n}",
+    "usercssData": {
+      "name": "stackoverflow.com",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "stackoverflow.com",
+    "updateDate": 1728943034962,
+    "_id": "a3447b22-c8b0-4632-8185-435582965d67",
+    "_rev": 1728943034962,
+    "id": 9
+  },
+  {
+    "enabled": true,
+    "installDate": 1729011809152,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           github.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root, html, body {\n\t    font-size: 16px;\n        --gl-background-color-default: black;\n\t    --gray-10: black;\n    }\n\n    *, .blob-code-inner, .blob-num, .cm-s-github-light .CodeMirror-lines, .CodeMirror pre > span, .CodeMirror, .CodeMirror-dialog input, .CodeMirror-hints, .CodeMirror-linenumber, .CodeMirror-lines, .commit .sha, .commit .sha-block, .commit-desc pre, .commit-ref, .commit-tease-sha, .export-phrase pre, .file-info, .FormControl-input.FormControl-monospace, .FormControl-select.FormControl-monospace, .FormControl-textarea.FormControl-monospace, .input-monospace, .markdown-body .footnotes .data-footnote-backref g-emoji, .pr-1 > code > a, .react-blob-print-hide, .react-code-text, .react-code-view-edit .cm-s-github-light .CodeMirror-lines, .text-mono *, .text-mono, .two-factor-recovery-codes, [aria-labelledby*=\"codemirror\"] *, [class*=\"blob-code\"] *, code > a[class=\"Link--secondary\"], section[aria-labelledby*=\"file-name-id\"] > div > div *, span.commit-ref > a > *, span.commit-ref > a {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n    }\n\n    .code *, *.text-mono * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed, .row-content-block, .merge-request {\n        background: black !important;\n    }",
+        "start": 218,
+        "domains": [
+          "github.com"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           github.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"github.com\") {\n    :root, html, body {\n\t    font-size: 16px;\n        --gl-background-color-default: black;\n\t    --gray-10: black;\n    }\n\n    *, .blob-code-inner, .blob-num, .cm-s-github-light .CodeMirror-lines, .CodeMirror pre > span, .CodeMirror, .CodeMirror-dialog input, .CodeMirror-hints, .CodeMirror-linenumber, .CodeMirror-lines, .commit .sha, .commit .sha-block, .commit-desc pre, .commit-ref, .commit-tease-sha, .export-phrase pre, .file-info, .FormControl-input.FormControl-monospace, .FormControl-select.FormControl-monospace, .FormControl-textarea.FormControl-monospace, .input-monospace, .markdown-body .footnotes .data-footnote-backref g-emoji, .pr-1 > code > a, .react-blob-print-hide, .react-code-text, .react-code-view-edit .cm-s-github-light .CodeMirror-lines, .text-mono *, .text-mono, .two-factor-recovery-codes, [aria-labelledby*=\"codemirror\"] *, [class*=\"blob-code\"] *, code > a[class=\"Link--secondary\"], section[aria-labelledby*=\"file-name-id\"] > div > div *, span.commit-ref > a > *, span.commit-ref > a {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n    }\n\n    .code *, *.text-mono * {\n        font-size: 1rem !important;\n    }\n\n    .top-bar-fixed, .row-content-block, .merge-request {\n        background: black !important;\n    }\n}",
+    "usercssData": {
+      "name": "github.com",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "github.com",
+    "updateDate": 1735476286892,
+    "_id": "70f68644-a341-431e-9d90-c81ee61d5a01",
+    "_rev": 1735476286892,
+    "id": 10
+  },
+  {
+    "enabled": true,
+    "installDate": 1730672904400,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           wikipedia.org\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": ":root {\n        --line-height-medium: 1.4;\n        --color-progressive: #f9f\n        font-size: 18px;\n    }\n    \n    body, .mw-body h1, .mw-heading h2, * {\n        font-family: 'GoldenTypeITC', sans-serif;\n    }",
+        "start": 224,
+        "domains": [
+          "wikipedia.org"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           wikipedia.org\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"wikipedia.org\") {\n    :root {\n        --line-height-medium: 1.4;\n        --color-progressive: #f9f\n        font-size: 18px;\n    }\n    \n    body, .mw-body h1, .mw-heading h2, * {\n        font-family: 'GoldenTypeITC', sans-serif;\n    }\n}",
+    "usercssData": {
+      "name": "wikipedia.org",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "wikipedia.org",
+    "updateDate": 1731746841158,
+    "_id": "7991d40d-0e43-4449-9395-e70586bb92da",
+    "_rev": 1731746841158,
+    "id": 11,
+    "customName": "wikipedia.org"
+  },
+  {
+    "enabled": true,
+    "installDate": 1732016580838,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           hermes.nousresearch.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": "* {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n    }",
+        "start": 244,
+        "domains": [
+          "hermes.nousresearch.com"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           hermes.nousresearch.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"hermes.nousresearch.com\") {\n    * {\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n    }\n}",
+    "usercssData": {
+      "name": "hermes.nousresearch.com",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "hermes.nousresearch.com",
+    "updateDate": 1732016637910,
+    "_id": "aa48fce8-869c-42a1-bc45-c1cf79aba730",
+    "_rev": 1732016637910,
+    "id": 12
+  },
+  {
+    "enabled": true,
+    "installDate": 1732051574758,
+    "sections": [
+      {
+        "code": "/* ==UserStyle==\n@name           shadertoy.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */",
+        "start": 0
+      },
+      {
+        "code": "*:not(.uiButton) {\n        background-image: unset !important;\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n        font-weight: normal !important;\n    }\n    body {\n        background: black;\n    }\n    .uiButton, .uiButtonNew, img {\n        filter: invert(100%);\n    }\n    .CodeMirror-selected {\n        background: #8ff2 !important;\n    }",
+        "start": 224,
+        "domains": [
+          "shadertoy.com"
+        ]
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           shadertoy.com\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n\n@-moz-document domain(\"shadertoy.com\") {\n    *:not(.uiButton) {\n        background-image: unset !important;\n        font-family: \"MxPlus IBM VGA 8x16\" !important;\n        font-size: 1rem !important;\n        font-weight: normal !important;\n    }\n    body {\n        background: black;\n    }\n    .uiButton, .uiButtonNew, img {\n        filter: invert(100%);\n    }\n    .CodeMirror-selected {\n        background: #8ff2 !important;\n    }\n}",
+    "usercssData": {
+      "name": "shadertoy.com",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "shadertoy.com",
+    "updateDate": 1732052511224,
+    "_id": "c95b5b96-d531-4be3-86ff-8b8603770252",
+    "_rev": 1732052511224,
+    "id": 13,
+    "customName": "shadertoy.com"
+  }
+]
